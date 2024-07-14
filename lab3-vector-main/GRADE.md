@@ -1,0 +1,13 @@
+Dear Student,
+
+I'm happy to announce that you've managed to get **14** out of 14 points for this assignment.
+
+There still exist some issues that should be addressed before the deadline: **2024-05-11 23:50:00 CEST (+0200)**. For further details, please refer to the following list:
+
+<details><summary>Ostrzeżenia w trakcie kompilacji</summary>/tmp/tmp7qi536lj/student/fraction.cpp:7:2:&nbsp;warning:&nbsp;#warning&nbsp;"Metody&nbsp;sa&nbsp;do&nbsp;zaimplementowania.&nbsp;Instrukcja&nbsp;w&nbsp;pliku&nbsp;naglowkowym"&nbsp;[-Wcpp]<br>&nbsp;&nbsp;&nbsp;&nbsp;7&nbsp;|&nbsp;#warning&nbsp;"Metody&nbsp;sa&nbsp;do&nbsp;zaimplementowania.&nbsp;Instrukcja&nbsp;w&nbsp;pliku&nbsp;naglowkowym"&nbsp;//&nbsp;po&nbsp;zaimplementowaniu&nbsp;sugeruje&nbsp;usuniecie&nbsp;tej&nbsp;linijki&nbsp;-&nbsp;nie&nbsp;chcemy&nbsp;warningow<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;^~~~~~~<br></details>
+<details><summary>Cppcheck znalazł potencjalne błędy (to narzędzie może się pomylić)</summary>/tmp/tmp7qi536lj/student/vector.cpp:9:12:&nbsp;warning:&nbsp;Local&nbsp;variable&nbsp;'capacity'&nbsp;shadows&nbsp;outer&nbsp;function&nbsp;[shadowFunction]<br>&nbsp;&nbsp;&nbsp;&nbsp;size_t&nbsp;capacity&nbsp;=&nbsp;vector.capacity_;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<br>/tmp/tmp7qi536lj/student/vector.h:82:26:&nbsp;note:&nbsp;Shadowed&nbsp;declaration<br>&nbsp;&nbsp;&nbsp;&nbsp;[[nodiscard]]&nbsp;size_t&nbsp;capacity()&nbsp;const{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<br>/tmp/tmp7qi536lj/student/vector.cpp:9:12:&nbsp;note:&nbsp;Shadow&nbsp;variable<br>&nbsp;&nbsp;&nbsp;&nbsp;size_t&nbsp;capacity&nbsp;=&nbsp;vector.capacity_;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^<br>/tmp/tmp7qi536lj/student/fraction.cpp:17:0:&nbsp;warning:&nbsp;The&nbsp;function&nbsp;'setNumerator'&nbsp;is&nbsp;never&nbsp;used.&nbsp;[unusedFunction]<br>void&nbsp;Fraction::setNumerator(int&nbsp;num)&nbsp;{<br>^<br>/tmp/tmp7qi536lj/student/fraction.cpp:21:0:&nbsp;warning:&nbsp;The&nbsp;function&nbsp;'setDenominator'&nbsp;is&nbsp;never&nbsp;used.&nbsp;[unusedFunction]<br>void&nbsp;Fraction::setDenominator(int&nbsp;den)&nbsp;{<br>^<br>/tmp/tmp7qi536lj/student/vector.cpp:69:0:&nbsp;warning:&nbsp;The&nbsp;function&nbsp;'push_back'&nbsp;is&nbsp;never&nbsp;used.&nbsp;[unusedFunction]<br>void&nbsp;Vector::push_back(const&nbsp;Fraction&nbsp;&value)&nbsp;noexcept{<br>^<br></details>
+
+-----------
+I remain your faithful servant\
+_Bobot_\
+_April 24, AD 2024, 10:16:07 (UTC)_

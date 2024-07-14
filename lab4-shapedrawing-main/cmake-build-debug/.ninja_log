@@ -1,0 +1,10 @@
+# ninja log v5
+1	38	1720964438586034285	tests/CMakeFiles/tests.dir/__/rectangle.cpp.o	aad6a5114cb68584
+0	39	1720964438587323529	tests/CMakeFiles/tests.dir/__/circle.cpp.o	8b1064a834c292b
+1	142	1720964438690794438	tests/CMakeFiles/tests.dir/__/shapecomposite.cpp.o	1c3daa7e298df10e
+1	586	1720964439133924710	tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	200fac0acda8e5e5
+0	672	1720964439219637562	tests/CMakeFiles/tests.dir/shapesTests.cpp.o	1d971edeb2748c79
+1	1655	1720964440199495877	tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	d9d6759c706d2d98
+1656	1689	1720964440239757000	lib/libgtest.a	15f33b5bd09d00cf
+1689	1703	1720964440254612000	lib/libgtest_main.a	df500b17a2363d1d
+1704	1743	1720964440292086144	bin/tests	b73265f4158e24c5

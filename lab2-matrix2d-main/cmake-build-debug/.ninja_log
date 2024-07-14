@@ -1,0 +1,8 @@
+# ninja log v5
+1	326	1720964238266060052	tests/CMakeFiles/tests.dir/__/matrix.cpp.o	613be7a99a81b126
+2	530	1720964238470434173	tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	6a2e2dff9e19aa3f
+0	584	1720964238525334740	tests/CMakeFiles/tests.dir/matrixTests.cpp.o	d60ba4560dfb278a
+2	1418	1720964239355654586	tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	3e2991afb7c12ef8
+1418	1450	1720964239394613000	lib/libgtest.a	15f33b5bd09d00cf
+1450	1465	1720964239410154000	lib/libgtest_main.a	df500b17a2363d1d
+1465	1504	1720964239447389301	bin/tests	614f8ae33c5eb5a1

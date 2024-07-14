@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics -o CMakeFiles/zad1Fraction_dlaStudentow.dir/fraction.cpp.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/fraction.cpp",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/fraction.cpp",
+  "output": "CMakeFiles/zad1Fraction_dlaStudentow.dir/fraction.cpp.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics -o CMakeFiles/zad1Fraction_dlaStudentow.dir/main.cpp.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/main.cpp",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/main.cpp",
+  "output": "CMakeFiles/zad1Fraction_dlaStudentow.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/include -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics -o tests/CMakeFiles/tests.dir/fractionTests.cpp.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/fractionTests.cpp",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/fractionTests.cpp",
+  "output": "tests/CMakeFiles/tests.dir/fractionTests.cpp.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/include -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics -o tests/CMakeFiles/tests.dir/__/fraction.cpp.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/fraction.cpp",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/fraction.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/fraction.cpp.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock/include -I/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/include -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o tests/lib/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock/src/gmock-all.cc",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock/src/gmock-all.cc",
+  "output": "tests/lib/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock/include -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/include -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o tests/lib/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock/src/gmock_main.cc",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googlemock/src/gmock_main.cc",
+  "output": "tests/lib/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/include -I/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/src/gtest-all.cc",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/src/gtest-all.cc",
+  "output": "tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/include -isystem /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest --std=c++20 -Wall -Wextra -pedantic -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/src/gtest_main.cc",
+  "file": "/Users/nataliabratek/Desktop/lab1-fraction-main/zaj1Fraction/tests/lib/googletest/src/gtest_main.cc",
+  "output": "tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

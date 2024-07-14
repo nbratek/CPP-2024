@@ -1,0 +1,3 @@
+/tmp/tmp_ch2rqbg/student/shapecomposite.cpp:7:5: warning: Variable 'sh1' is assigned in constructor body. Consider performing initialization in initialization list. [useInitializationList]
+    sh1 = std::move(shape1);
+    ^

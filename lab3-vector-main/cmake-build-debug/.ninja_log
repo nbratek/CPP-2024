@@ -1,0 +1,10 @@
+# ninja log v5
+0	255	1720964379275376238	tests/CMakeFiles/tests.dir/__/vector.cpp.o	4fdb60865247957f
+0	384	1720964379406908450	tests/CMakeFiles/tests.dir/__/fraction.cpp.o	182f74373d45a181
+1	667	1720964379690601242	tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	c8cbd86f726e8f1f
+0	676	1720964379699282965	tests/CMakeFiles/tests.dir/fractionTests.cpp.o	e0f01422c33e8ccb
+0	759	1720964379782074675	tests/CMakeFiles/tests.dir/vectorTests.cpp.o	8bb89160b307110
+1	1712	1720964380732644773	tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	fe8d87c5a65284fb
+1712	1745	1720964380772117000	lib/libgtest.a	15f33b5bd09d00cf
+1745	1761	1720964380787885000	lib/libgtest_main.a	df500b17a2363d1d
+1761	1799	1720964380824320324	bin/tests	db32f4d44e5202dd

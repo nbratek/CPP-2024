@@ -1,0 +1,3 @@
+/tmp/tmpsytolczv/student/matrix.cpp:40:41: warning: Member variable 'TwoDimensionMatrix::matrix' is not assigned a value in 'TwoDimensionMatrix::operator='. [operatorEqVarError]
+TwoDimensionMatrix &TwoDimensionMatrix::operator=(const TwoDimensionMatrix &other) {
+                                        ^
